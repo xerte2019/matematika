@@ -1,1 +1,3 @@
 //feladatok megosztása
+
+//ezt javaslom a következő lépésben ....
